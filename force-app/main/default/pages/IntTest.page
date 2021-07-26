@@ -1,0 +1,3 @@
+<apex:page >
+    Hello, this is an integration test with github.
+</apex:page>
