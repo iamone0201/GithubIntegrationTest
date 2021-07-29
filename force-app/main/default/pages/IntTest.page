@@ -1,4 +1,5 @@
 <apex:page >
     Hello, this is an integration test with github.
-    v1.2
+    v1.0
+    new line
 </apex:page>
